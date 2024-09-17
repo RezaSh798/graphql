@@ -1,1 +1,1 @@
-Graphql server example with apollow server.
+Graphql server example with apollo server.
